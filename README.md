@@ -1,2 +1,1 @@
-# beer-app
-Created with CodeSandbox
+# beer-app-react
